@@ -1,0 +1,14 @@
+{
+  "name": "Mondial Chuva de Prêmios",
+  "short_name": "Mondilene",
+  "description": "Pegue os produtos Mondial no carrinho!",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#222a36",
+  "theme_color": "#222a36",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
